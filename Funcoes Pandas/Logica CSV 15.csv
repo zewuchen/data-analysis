@@ -1,0 +1,26 @@
+year,geo_name,geo,cohort_name,cohort,patients_in_cohort
+2014,"Florida","04000US12","Acute Myocardial Infarction","AMI",8657.0
+2011,"Florida","04000US12","Acute Myocardial Infarction","AMI",9314.0
+2010,"Florida","04000US12","Acute Myocardial Infarction","AMI",9441.0
+2013,"Florida","04000US12","Acute Myocardial Infarction","AMI",9010.0
+2012,"Florida","04000US12","Acute Myocardial Infarction","AMI",8860.0
+2014,"Florida","04000US12","Congestive Heart Failure","CHF",14753.0
+2011,"Florida","04000US12","Congestive Heart Failure","CHF",16529.0
+2010,"Florida","04000US12","Congestive Heart Failure","CHF",17275.0
+2013,"Florida","04000US12","Congestive Heart Failure","CHF",15117.0
+2012,"Florida","04000US12","Congestive Heart Failure","CHF",15059.0
+2014,"Florida","04000US12","Medical","medical",213877.0
+2011,"Florida","04000US12","Medical","medical",232763.0
+2010,"Florida","04000US12","Medical","medical",231935.0
+2013,"Florida","04000US12","Medical","medical",223454.0
+2012,"Florida","04000US12","Medical","medical",227940.0
+2014,"Florida","04000US12","Pneumonia","pneumonia",13355.0
+2011,"Florida","04000US12","Pneumonia","pneumonia",14358.0
+2010,"Florida","04000US12","Pneumonia","pneumonia",13678.0
+2013,"Florida","04000US12","Pneumonia","pneumonia",14658.0
+2012,"Florida","04000US12","Pneumonia","pneumonia",13890.0
+2014,"Florida","04000US12","Surgical","surgical",115983.0
+2011,"Florida","04000US12","Surgical","surgical",133000.0
+2010,"Florida","04000US12","Surgical","surgical",137208.0
+2013,"Florida","04000US12","Surgical","surgical",119788.0
+2012,"Florida","04000US12","Surgical","surgical",123886.0
